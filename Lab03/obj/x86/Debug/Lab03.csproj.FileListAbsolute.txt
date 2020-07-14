@@ -1,0 +1,10 @@
+c:\users\jtpeter7\documents\visual studio 2017\Projects\Lab03\Build\Content\Torus.xnb
+c:\users\jtpeter7\documents\visual studio 2017\Projects\Lab03\Build\Lab03.exe
+c:\users\jtpeter7\documents\visual studio 2017\Projects\Lab03\Build\Lab03.pdb
+c:\users\jtpeter7\documents\visual studio 2017\Projects\Lab03\Lab03\obj\x86\Debug\Lab03.csprojResolveAssemblyReference.cache
+c:\users\jtpeter7\documents\visual studio 2017\Projects\Lab03\Lab03\obj\x86\Debug\Lab03.exe
+c:\users\jtpeter7\documents\visual studio 2017\Projects\Lab03\Lab03\obj\x86\Debug\Lab03.pdb
+C:\Users\Jacob\Desktop\Lab03\Lab03\obj\x86\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\Lab03\Lab03\obj\x86\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\Lab03\Lab03\obj\x86\Debug\Lab03.exe
+C:\Users\Jacob\Desktop\Lab03\Lab03\obj\x86\Debug\Lab03.pdb
